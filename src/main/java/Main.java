@@ -10,17 +10,16 @@ public class Main {
             }
 
             System.out.print("n");
-            if (x > 1) { //Change Conditional
+            if (x > 1) {
                 System.out.print(" oyster");
                 x = x + 2;
             }
 
             if (x == 1) {
-                //Sout
                 System.out.print("noys");
             }
 
-            if (x < 1) { //Change Conditional
+            if (x < 1) {
                 System.out.print("oise");
             }
 
